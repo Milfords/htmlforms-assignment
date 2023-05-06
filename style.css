@@ -1,0 +1,30 @@
+body {
+    background-color:blanchedalmond;
+    font-family: Montserrat;
+}
+
+header h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+input, textarea {
+    max-width: 600px;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    vertical-align: middle;
+}
+
+hr {
+    border-radius: 50%;
+}
+
+button {
+    display: block;
+    max-width: 60px;
+    margin: 30px 0px;
+}
